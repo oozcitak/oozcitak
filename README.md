@@ -1,4 +1,4 @@
 
-![oozcitak's GitHub stats](https://github-readme-stats.vercel.app/api?username=oozcitak&show_icons=true&hide=contribs)
+[![oozcitak's GitHub stats](https://github-readme-stats.vercel.app/api?username=oozcitak)](https://github.com/oozcitak/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oozcitak)
